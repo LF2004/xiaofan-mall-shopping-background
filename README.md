@@ -1,6 +1,7 @@
 # 小帆商城购物后台
 
-
+### 后端地址：https://gitee.com/LiFan2004/xiaofan-shopping-service
+### 前台地址：https://gitee.com/LiFan2004/xiaofan-shopping
 
 # 小帆购物使用说明与技术栈
 
