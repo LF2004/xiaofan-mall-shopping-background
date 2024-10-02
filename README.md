@@ -1,24 +1,46 @@
-# vue3background
+# 小帆商城购物后台
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 安装教程
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. **安装Node.js和npm**：  
+   在本地计算机上安装Node.js和npm（Node Package Manager），这是运行和构建UniApp项目所必需的。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 小帆购物使用说明与技术栈
+
+## 使用说明
+
+### 浏览商品
+- 在首页或分类页面中，您可以浏览各种商品。
+- 通过点击商品，进入商品详情页查看该商品的详细信息。
+
+### 加入购物车
+- 在商品详情页中，选择您需要的商品规格和数量。
+- 点击“加入购物车”按钮，将商品添加到购物车中。
+- 购物车页面将显示您已选中的商品及其总价。
+
+### 提交订单
+- 在购物车页面中，确认您的订单信息。
+- 点击“提交订单”按钮，系统将引导您完成支付流程。
+- 支付成功后，系统将生成订单记录。
+
+### 查看订单
+- 在“我的订单”页面中，您可以查看所有已提交的订单。
+- 订单状态包括待支付、已支付、已发货等，方便您随时跟踪订单状态。
+
+### 个人中心
+- 在个人中心页面中，您可以管理您的个人信息。
+- 包括收货地址、优惠券等信息的添加、编辑和删除。
+
+## 技术栈
+
+### 前端
+- **Element-Plus**：前端组件库。
+- **Vue 3**：作为前端框架，提供响应式的数据绑定和组件化开发。
+- **Pinia**：Vue 3的状态管理库，用于管理全局状态。
+- **Pinia-plugin-persistedstate**：持久化Pinia状态，确保用户数据不丢失。
+- **Axios**：用于发起HTTP请求，与后端API接口进行数据交互。
+
+## 页面展示
+
