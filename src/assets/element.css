@@ -1,0 +1,60 @@
+.h1Class{
+    transition: .3s;
+    animation: opacityMove .3s;
+}
+.ifnoDivClass{
+    transition: 0.3s;
+    animation: myfirst .5s;
+    animation-fill-mode:forwards
+}
+.transMoveUserInfoRzClass{
+    transition: 0.3s;
+    animation: myfirst2 .3s;
+    animation-fill-mode:forwards
+}
+.el-pagination__total{
+    color: #ffffff !important;
+    font-weight: 700;
+    text-shadow: 2px 2px 5px black;
+}
+.el-pagination__goto{
+    color: #ffffff;
+}
+.el-radio-group {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 0;
+    transform: translate(10px, -4px);
+}
+@keyframes opacityMove {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes myfirst
+{
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(20px);
+    }
+}
+
+@keyframes myfirst2
+{
+    0% {
+        opacity: 0;
+        transform: translateY(0px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(-20px);
+    }
+}
