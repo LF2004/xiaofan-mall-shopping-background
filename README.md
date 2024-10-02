@@ -21,12 +21,7 @@
 - **Axios**：用于发起HTTP请求，与后端API接口进行数据交互。
 
 ## 页面展示
-![输入图片说明](image.png)
-
-
-![输入图片说明](image.png)
-
-
-![输入图片说明](image.png)
-
-
+![输入图片说明](public/image1.png)
+![输入图片说明](public/image2.png)
+![输入图片说明](public/image3.png)
+![输入图片说明](public/image4.png)
