@@ -1,7 +1,7 @@
 # 小帆商城购物后台
 
-### 后端地址：https://github.com/LF2004/xiaofan-shopping-service
-### 前台地址：https://github.com/LF2004/xiaofan-shopping
+### 后端地址：https://github.com/LF2004/xiaofan-mall-shopping-backend
+### 前台地址：https://github.com/LF2004/xiaofan-mall-shopping
 
 # 小帆购物使用说明与技术栈
 
